@@ -1,1 +1,1 @@
-# emex_parser
+Парсер каталога то emex. На выходе csv для загрузки в wordpress.
